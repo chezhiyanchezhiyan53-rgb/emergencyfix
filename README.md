@@ -1,4 +1,4 @@
-# EmergencyFix: The Complete Home Care Ecosystem 🏠🛠️
+# EFix: The Complete Home Care Ecosystem 🏠🛠️
 
 EmergencyFix is a hybrid service platform. We solve the "Golden Hour" problem for home emergencies while providing a premium, verified experience for general home maintenance.
 

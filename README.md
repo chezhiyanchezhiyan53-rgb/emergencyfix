@@ -39,6 +39,5 @@ Unlike any other app, EmergencyFix uses **Live Video Calls** before the technici
 * **Q1 2025:** AI-powered Auto-Diagnosis (Using the camera to identify the part name and model automatically).
 
 ## 📈 Growth Potential
-* **Zero Competition:** No current app offers video diagnosis *before* arrival.
 * **High Trust:** Video calls build immediate rapport between the user and technician.
 * **Scalable Revenue:** Commission-based model on repairs + Premium subscription for "Zero-Delay" emergency response.

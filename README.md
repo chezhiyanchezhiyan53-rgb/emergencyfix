@@ -28,4 +28,4 @@ In a crisis—like a burst pipe at midnight or a sudden electrical fire—users 
 ---
 
 
-**Developed with 🛠️ by [Your Name] | 2026**
+**Developed with 🛠️ by [Chezhiyan & Pranay] | 2026**

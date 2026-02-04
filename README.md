@@ -1,16 +1,31 @@
-# React + Vite
+# 🚨 EFix
+> **"Reliability when seconds count. Immediate repair help, 24/7."**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![Vite](https://img.shields.io/badge/Build-Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🆘 Why EmergencyFix?
+In a crisis—like a burst pipe at midnight or a sudden electrical fire—users suffer from "panic paralysis." Standard search engines are too slow and cluttered. **EmergencyFix** provides a zero-friction, high-speed interface to connect victims with professional responders instantly.
 
-## React Compiler
+## ⚡ Critical Emergency Features
+* **One-Tap SOS Navigation**: Optimized UI designed for high-stress situations. Large, high-contrast icons ensure you find the right service (Plumbing, Electrical, Mechanical) without reading small text.
+* **Zero-Barriers to Help**: No login, no signup, no waiting. The app is built to be "Ready-to-Use" the moment it loads.
+* **Real-Time Visual Feedback**: Features a "Pulse UI" on critical buttons to guide the user's eye in low-light environments (like power outages).
+* **Guaranteed Uptime**: Hosted on Vercel's global edge network, ensuring the app stays live and fast even during local network spikes.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technology Stack
+* **Frontend Architecture**: Built with **React** for a fast, modular user interface.
+* **Rapid Bundling**: Powered by **Vite** for sub-second load times.
+* **Visual Identity**: Uses **Lucide-React** for universally recognized emergency icons.
+* **Cloud Infrastructure**: Deployed via **Vercel** for 99.9% availability and instant global access.
 
-## Expanding the ESLint configuration
+## 🚀 Experience the Project
+[**Launch EmergencyFix Live 🌐**](https://emergencyfix.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+**Developed with 🛠️ by [Your Name] | 2026**
